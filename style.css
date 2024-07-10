@@ -1,0 +1,92 @@
+.companyContainer {
+    border: solid rgb(61, 14, 148);
+    text-align: left;
+    display:flex;
+      flex-wrap:wrap;
+      justify-content: left;
+  }
+  .company {
+    border-radius: 22px;
+    font-size:22px;
+    border: solid rgb(7, 1, 1);
+    margin: 20px;
+    /* width: 100%; */
+    padding: 12px;
+    justify-content: left;
+    background-color: rgb(143, 9, 9);
+    color: rgb(123, 158, 211);
+    display: flex
+    ;
+  }
+  
+  #com_a:hover {
+    color: rgb(18, 10, 92);
+    background-color: rgb(65, 7, 65);
+    font: 1.7rem rapscallion;
+    letter-spacing: 3px;
+    text-shadow:
+      1px 1px 0 #050801,
+      0 0 9px #000;
+  }
+  #com_b:hover {
+    color: peru;
+    background-color: rgb(65, 7, 65);
+    font: 1.7rem rapscallion;
+    letter-spacing: 3px;
+    text-shadow:
+      1px 1px 0 #fff,
+      0 0 9px #055737;
+  }
+  #com_c:hover {
+    background-color:rgb(65, 7, 65);
+    font: 1.9rem rapscallion;
+    letter-spacing: 3px;
+    text-shadow:
+      1px 1px 0 #fff,
+      0 0 9px #5915b3;
+  }
+  #com_d:hover {
+    color: white;
+    background-color: rgb(65, 7, 65);
+    font: 1.7rem rapscallion;
+    letter-spacing: 3px;
+    text-shadow:
+      1px 1px 0 #fff,
+      0 0 9px #88aa29;
+  }
+  .bizPic {
+    margin: 1em;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    border: solid rgb(19, 43, 150);
+  }
+  .Google {
+    font: 1.7rem rapscallion;
+    letter-spacing: 3px;
+    text-shadow:
+      1px 1px 0 #fff,
+      0 0 9px #000;
+  }
+  .Facebook {
+    font: 1.7rem rapscallion;
+    letter-spacing: 3px;
+    text-shadow:
+      1px 1px 0 #fff,
+      0 0 9px #08a066;
+  }
+  .Pintrest {
+    font: 1.7rem rapscallion;
+    letter-spacing: 3px;
+    text-shadow:
+      1px 1px 0 #fff,
+      0 0 9px #5915b3;
+  }
+  .Medium {
+    font: 1.7rem rapscallion;
+    letter-spacing: 3px;
+    text-shadow:
+      1px 1px 0 #fff,
+      0 0 9px #740e0e;
+  }
+
